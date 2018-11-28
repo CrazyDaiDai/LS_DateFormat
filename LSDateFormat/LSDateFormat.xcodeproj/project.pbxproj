@@ -56,15 +56,23 @@
 		08631FC521AD718600DF2005 /* LSDateFormat */ = {
 			isa = PBXGroup;
 			children = (
+				08631FDA21AE323300DF2005 /* DateFormat */,
 				08631FC621AD718600DF2005 /* AppDelegate.swift */,
 				08631FC821AD718600DF2005 /* ViewController.swift */,
 				08631FCA21AD718600DF2005 /* Main.storyboard */,
 				08631FCD21AD718900DF2005 /* Assets.xcassets */,
 				08631FCF21AD718900DF2005 /* LaunchScreen.storyboard */,
 				08631FD221AD718900DF2005 /* Info.plist */,
-				08631FD821AD71E800DF2005 /* LSDteFormat.swift */,
 			);
 			path = LSDateFormat;
+			sourceTree = "<group>";
+		};
+		08631FDA21AE323300DF2005 /* DateFormat */ = {
+			isa = PBXGroup;
+			children = (
+				08631FD821AD71E800DF2005 /* LSDteFormat.swift */,
+			);
+			path = DateFormat;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
